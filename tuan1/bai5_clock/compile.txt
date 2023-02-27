@@ -1,0 +1,1 @@
+g++ -o bai5_clock bai5_clock.cpp -I/usr/local/include -L/usr/local/lib -lsfml-graphics -lsfml-window -lsfml-system
